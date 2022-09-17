@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 Here is a short summary about me **<a href="https://cheery-wisp-bafc40.netlify.app/" target=_blank>-Resume</a>**
+- 📫 Here is a short summary about me **<a href="htt" target=_blank>-Resume</a>**
 
 - 👨‍💻 All of my projects are available at <!-- **[My Portfolio](https://subhamraoniar.com)** -->
 
