@@ -14,7 +14,7 @@
 
 - 📫 Here is a short summary about me **<a href="https://cheery-wisp-bafc40.netlify.app/" target=_blank>-Resume</a>**
 
-- 👨‍💻 All of my projects are available at <!-- **[My Portfolio](https://subhamraoniar.com)** -->
+<!--- 👨‍💻 All of my projects are available at **<a href="https://swathysuriyababu-portfolio.netlify.app/" target=_blank>-Portfolio</a> -->
 
 - 📫 How to reach me **swathysuryababu@gmail.com**
 
